@@ -6,10 +6,10 @@
       </div>
     </div>
     <div class="row mt-5">
-      <div class="col">
-      <button>Cars</button>
-      <button>Houses</button>
-      <button>Jobs</button>
+      <div class="col text-center">
+      <button class="m-2">Cars</button>
+      <button class="m-2">Houses</button>
+      <button class="m-2">Jobs</button>
       </div>
     </div>
   </div>
